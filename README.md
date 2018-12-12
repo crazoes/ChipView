@@ -1,11 +1,16 @@
-[![](https://jitpack.io/v/jakebonk/ChipView.svg)](https://jitpack.io/#jakebonk/ChipView)
 
 # Chip View
 This is a simple chip library that allows you to create your own chip views and views for the listview all within one adapter.
 
 ## Example
 
-![Basic Example](https://thumbs.gfycat.com/HopefulWelltodoClingfish-size_restricted.gif)
+<img src="https://user-images.githubusercontent.com/35893133/49866793-c4e39500-fe2e-11e8-95de-d764cbebd91f.jpg" width="300">
+<img src="https://user-images.githubusercontent.com/35893133/49866801-cca33980-fe2e-11e8-9c69-826c8b651e8a.jpg" width="300">
+<img src="https://user-images.githubusercontent.com/35893133/49866806-d167ed80-fe2e-11e8-994b-9c5c1b787f02.jpg" width="300">
+<img src="https://user-images.githubusercontent.com/35893133/49866818-d9279200-fe2e-11e8-8734-b4ebe9c46cb4.jpg" width="300">
+
+
+
 
 ## Download library with Jitpack.io
 Add this to your build.gradle file for your app.
